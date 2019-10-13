@@ -48,7 +48,7 @@ $end = hrtime(true);
 
 print number_format(filesize('exakat.phar') / 1024 / 1024, 2).' Mb'.PHP_EOL;
 print number_format(($end - $begin) / 1000000).' ms'.PHP_EOL;
-print shell_exec('php exakat.phar').PHP_EOL;
+print shell_exec('php exakat.phar doctor').PHP_EOL;
 
 //shell_exec('composer update');
 

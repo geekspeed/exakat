@@ -41,7 +41,7 @@ abstract class Reports {
                                           'Inventories', 'Clustergrammer', 'Filedependencies', 'Filedependencieshtml', 'Classdependencies',
                                           'Radwellcode', 'Grade', 'Weekly', 'Scrutinizer','Codesniffer', 'Phpcsfixer',
                                           'Facetedjson', 'Json', 'Onepagejson', 'Marmelab', 'Simpletable', 'Exakatyaml',
-                                          'Codeflower', 'Dependencywheel', 'Phpcity', 'Sarb',
+                                          'Codeflower', 'Dependencywheel', 'Phpcity', 'Sarb', 'PAC',
                                           //'DailyTodo',
                                           );
 
