@@ -1,0 +1,9 @@
+*~
+
+# composer vendor folder
+/vendor
+
+# build logas and coverage
+/build/logs/*
+/build/coverage
+
